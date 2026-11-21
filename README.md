@@ -8,6 +8,14 @@
 - Course CRUD: create, list, view, edit and delete courses
 - Form validation and MySQL storage
 
+## Workshop 2: MVC refactor
+
+- StudentController and CourseController with resource routes
+- Named routes and route model binding
+- Shared layout with navbar and footer (Blade components)
+- Reusable components for alerts, form fields and delete buttons
+- One shared form for create and edit
+
 ## Run locally
 
 ```
